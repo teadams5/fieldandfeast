@@ -286,7 +286,7 @@ address a {
     }
 }
 /* MEDIA QUERY (xl) */
-@media screen and (min-width: 1100px) {
+@media screen and (min-width: 1200px) {
     .gallery {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
